@@ -5,7 +5,5 @@ main:
     url: /projects/
   - title: "Experience"
     url: /experience/
-  - title: "Writings"
-    url: /posts/
-  - title: "Résumé"
-    url: /assets/files/Mayank_Rawat_Resume.pdf
+  - title: "Resume"
+    url: /resume/
