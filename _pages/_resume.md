@@ -43,7 +43,6 @@ author_profile: true
 
 ## 💼 Experience
 
-## 💼 Experience  
 
 <div style="border-left: 3px solid #4A90E2; padding-left: 15px;">
 
