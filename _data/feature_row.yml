@@ -1,0 +1,24 @@
+homepage:
+  - image_path: /assets/images/projects.png
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Explore my hands-on data analytics projects — from retail sales insights to job market dashboards."
+    url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/resume.png
+    alt: "Resume"
+    title: "Résumé"
+    excerpt: "Check out my professional experience, skills, and career journey."
+    url: "/resume/"
+    btn_label: "View Résumé"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/blog.png
+    alt: "Blog"
+    title: "Writings"
+    excerpt: "Read my thoughts on data, analytics, and the tech industry."
+    url: "/blog/"
+    btn_label: "Visit Blog"
+    btn_class: "btn--primary"
