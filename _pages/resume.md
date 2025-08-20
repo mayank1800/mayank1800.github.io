@@ -1,11 +1,9 @@
 ---
-title: "Resume"
+title: " 💼 Resume  "
 permalink: /resume/
 layout: single
 author_profile: true
 ---
-
-# 💼 Resume  
 
 ---
 
@@ -16,7 +14,6 @@ author_profile: true
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
 
@@ -30,12 +27,14 @@ author_profile: true
 
 ---
 
-**Retail Data Analyst Project (Portfolio Project)**  
-📍 GitHub Portfolio | *2024*  
-- Cleaned and transformed raw retail transaction data using **Python (Pandas, NumPy, regex, datetime)**.  
-- Built **SQL queries** to track customer churn, retention, and monthly transactions.  
-- Designed an **interactive Power BI dashboard** with KPI cards, DAX measures, slicers, and churn analysis visualizations.  
-- Applied **RFM segmentation** to identify high-value customers.  
+### Junior Data Analyst (Data Management Associate) | Kumon India & Sri Lanka – Delhi, India
+**Mar 2022 – Mar 2023**  
+- Partnered with business teams to translate operational needs into SQL-based analytics solutions, improving decision-making across 79 centres.  
+- Automated weekly reporting pipeline using SQL and Excel, reducing processing time by 60% and enabling faster KPI monitoring.  
+- Built and maintained Power BI dashboards to visualize 50K+ student records, providing descriptive and diagnostic insights to 20+ regional managers.  
+- Conducted data quality audits on 50K+ records, ensuring accuracy for monthly and quarterly reports.  
+- Developed forecasting models with 85% accuracy to predict staffing and resource needs, improving operational efficiency.  
+
 
 ---
 
