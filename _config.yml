@@ -58,8 +58,8 @@ author:
   name   : "Mayank Singh Rawat"
   avatar : "/assets/images/bio-photo.jpg"   # upload your photo into assets/images
   bio    : "Data Analyst | Python, SQL, BI Tools | Driving insights through data"
-  location: "📍 London, ON, Canada"
-  phone  : "📞 +1 (123) 456-7890"
+  location: "London, ON, Canada"
+  phone  : " +1 (123) 456-7890"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
